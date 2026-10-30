@@ -1,12 +1,12 @@
-# Emotion Detector
+# Final Project
 
 ## Project Description
 
-Emotion Detector is an AI-based web application that analyzes text and identifies the emotions expressed in it. The project uses the Watson NLP library for emotion detection and provides a Flask-based web interface.
+Final Project is an AI-based web application that analyzes text and identifies the emotions expressed in it. The project uses the Watson NLP library for emotion detection and provides a Flask-based web interface.
 
 ## Project Name
 
-**Emotion Detector**
+**Final Project**
 
 ## Features
 
